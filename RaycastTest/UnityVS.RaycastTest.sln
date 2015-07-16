@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.RaycastTest.CSharp.Plugins", "UnityVS.RaycastTest.CSharp.Plugins.csproj", "{83083AD4-EDAF-0E96-FA7B-74CF50131894}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.RaycastTest.CSharp", "UnityVS.RaycastTest.CSharp.csproj", "{29502725-0ECC-183F-2B3F-9DB6D5DC500A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.RaycastTest.CSharp.Editor", "UnityVS.RaycastTest.CSharp.Editor.csproj", "{FF5B91C8-198C-4000-18F1-7519CF17363F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83083AD4-EDAF-0E96-FA7B-74CF50131894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83083AD4-EDAF-0E96-FA7B-74CF50131894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83083AD4-EDAF-0E96-FA7B-74CF50131894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83083AD4-EDAF-0E96-FA7B-74CF50131894}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29502725-0ECC-183F-2B3F-9DB6D5DC500A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29502725-0ECC-183F-2B3F-9DB6D5DC500A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29502725-0ECC-183F-2B3F-9DB6D5DC500A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29502725-0ECC-183F-2B3F-9DB6D5DC500A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF5B91C8-198C-4000-18F1-7519CF17363F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF5B91C8-198C-4000-18F1-7519CF17363F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF5B91C8-198C-4000-18F1-7519CF17363F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF5B91C8-198C-4000-18F1-7519CF17363F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
