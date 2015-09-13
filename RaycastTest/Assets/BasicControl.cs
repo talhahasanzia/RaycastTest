@@ -14,7 +14,7 @@ public class BasicControl : MonoBehaviour {
     
 	
 	
-	//public float AngleX,AngleY,AngleZ;
+	
 	// Use this for initialization
 	void Start () {
 		}
@@ -33,10 +33,6 @@ public class BasicControl : MonoBehaviour {
         }
 
        
-		
-		
-			
-
 		
 		
 	

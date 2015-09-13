@@ -1,0 +1,1 @@
+if you do not have Visual Studio 2013 set up for Unity on your system, delete UnityVS folder and set external tools to Monodevelop. (Edit -> Preferences -> External Tools)
