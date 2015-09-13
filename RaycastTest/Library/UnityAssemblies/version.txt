@@ -1,13 +1,20 @@
-5.0.0f4:1.9.9.0
+5.1.2f1:1.9.9.0
 StandaloneWindows
-C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
-C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll
-C:\Program Files\Unity\Editor\Data\PlaybackEngines\androidplayer/UnityEditor.Android.Extensions.dll
-C:\Program Files\Unity\Editor\Data\PlaybackEngines\iossupport/UnityEditor.iOS.Extensions.dll
-C:\Program Files\Unity\Editor\Data\PlaybackEngines\wp8support/UnityEditor.WP8.Extensions.dll
-C:\Program Files\Unity\Editor\Data\PlaybackEngines\metrosupport/UnityEditor.Metro.Extensions.dll
-C:\Program Files\Unity\Editor\Data\PlaybackEngines\blackberryplayer/UnityEditor.BB10.Extensions.dll
-C:\Program Files\Unity\Editor\Data\PlaybackEngines\webglsupport/UnityEditor.WebGL.Extensions.dll
-C:\Program Files\Unity\Editor\Data\PlaybackEngines\linuxstandalonesupport/UnityEditor.LinuxStandalone.Extensions.dll
-C:\Program Files\Unity\Editor\Data\PlaybackEngines\windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll
-C:\Program Files\Unity\Editor\Data\PlaybackEngines\macstandalonesupport/UnityEditor.OSXStandalone.Extensions.dll
+F:/Unity5.1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+F:/Unity5.1/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+F:/Unity5.1/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll
+F:/Unity5.1/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll
+F:/Unity5.1/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll
+F:/Unity5.1/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll
+F:/Unity5.1/Editor/Data/Managed/UnityEditor.Graphs.dll
+F:\Unity5.1\Editor\Data\PlaybackEngines\androidplayer/UnityEditor.Android.Extensions.dll
+F:/Unity5.1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+F:\Unity5.1\Editor\Data\PlaybackEngines\wp8support/UnityEditor.WP8.Extensions.dll
+F:\Unity5.1\Editor\Data\PlaybackEngines\metrosupport/UnityEditor.Metro.Extensions.dll
+F:\Unity5.1\Editor\Data\PlaybackEngines\blackberryplayer/UnityEditor.BB10.Extensions.dll
+F:\Unity5.1\Editor\Data\PlaybackEngines\TizenPlayer\TizenPlayer/UnityEditor.Tizen.Extensions.dll
+F:\Unity5.1\Editor\Data\PlaybackEngines\stvplayer\STVPlayer/UnityEditor.SamsungTV.Extensions.dll
+F:\Unity5.1\Editor\Data\PlaybackEngines\webglsupport/UnityEditor.WebGL.Extensions.dll
+F:\Unity5.1\Editor\Data\PlaybackEngines\linuxstandalonesupport/UnityEditor.LinuxStandalone.Extensions.dll
+F:\Unity5.1\Editor\Data\PlaybackEngines\windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll
+F:\Unity5.1\Editor\Data\PlaybackEngines\macstandalonesupport/UnityEditor.OSXStandalone.Extensions.dll
